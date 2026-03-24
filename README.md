@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A8DADC&height=300&section=header&text=JeongMo's%20GitHub&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A8DADC&height=300&section=header&text=Welcome%20To%20JeongMo's%20GitHub&fontSize=30)
 
 ### :desktop_computer: Language
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,7 +17,6 @@
 
 ## 😊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdah1028)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdah1028)](https://github.com/anuraghazra/github-readme-stats)
 
 
