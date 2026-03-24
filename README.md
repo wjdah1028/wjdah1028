@@ -1,29 +1,26 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=A8DADC&height=300&section=header&text=JeongMo's%20GitHub&fontSize=40)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=JeongMo's%20👋&fontSize=90&animation=fadeIn)
+### :desktop_computer: Language
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<br/>
+### 🧩 Framework
+![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-### 🌐 Language
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&perline=8" />
+### :books: Library
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<br/>
+### :file_cabinet: Database
+![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🏗️ Framework
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,react&perline=8" />
+### :globe_with_meridians: Tool
 
-<br/>
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### 🗄️ Database & Messaging
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq&perline=8" />
-
-<br/>
-
-### ☁️ Infrastructure & Operations
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,ansible,githubactions&perline=6" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nginx,prometheus,grafana,linux&perline=4" />
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
-
-</div>
