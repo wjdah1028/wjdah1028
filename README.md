@@ -8,6 +8,11 @@
 
 <br/>
 
+## 📫 Contact Me
+<a href="mailto:jmo02.kim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Language
@@ -39,12 +44,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdah1028&layout=compact&theme=tokyonight&hide_border=true&bg_color=111111" alt="Top Langs" />
   </a>
 </div>
-
-<br/>
-
-## 📫 Contact Me
-<a href="mailto:jmo02.kim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </div>
