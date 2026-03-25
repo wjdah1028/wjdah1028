@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=300&section=header&text=Welcome%20To%20JeongMo's%20GitHub&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=300&section=header&text=JeongMo's%20GitHub&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer&descAlignY=70" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A8DADC&center=true&vCenter=true&width=435&lines=Backend+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
