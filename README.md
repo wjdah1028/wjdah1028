@@ -3,17 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=300&section=header&text=Welcome%20To%20JeongMo's%20GitHub&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer&descAlignY=70" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A8DADC&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+Boot;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A8DADC&center=true&vCenter=true&width=435&lines=Backend+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ## 📫 Contact Me
 <a href="mailto:jmo02.kim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-## 🛠️ Tech Stack
 
 ### 💻 Language
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
