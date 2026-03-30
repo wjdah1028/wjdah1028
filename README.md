@@ -35,6 +35,7 @@
 
 <br/>
 
+<--!
 ## 📊 GitHub Stats
 <a href="https://github.com/wjdah1028">
   <img src="https://github-readme-stats.vercel.app/api?username=wjdah1028&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111111&v=1" alt="JeongMo's GitHub stats" />
@@ -42,5 +43,5 @@
 <a href="https://github.com/wjdah1028">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdah1028&layout=compact&theme=tokyonight&hide_border=true&bg_color=111111&v=1" alt="Top Langs" />
 </a>
-
+-->
 </div>
