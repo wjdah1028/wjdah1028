@@ -33,11 +33,4 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
-<br/>
-
-## 📊 GitHub Stats
-<a href="https://github.com/wjdah1028">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdah1028&layout=compact&theme=tokyonight&hide_border=true&bg_color=111111" alt="Top Langs" />
-</a>
-
 </div>
